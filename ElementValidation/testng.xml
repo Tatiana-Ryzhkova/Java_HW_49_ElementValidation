@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1">
+
+  <test name="SignUp_Test">
+    <classes>
+       <class name="SignUp_Test" />
+    </classes>
+  </test>
+  
+  <test name="ConfPage_Test">
+    <classes>
+       <class name="ConfPage_Test" />
+    </classes>
+  </test>
+  
+</suite>  	
